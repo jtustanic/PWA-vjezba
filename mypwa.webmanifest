@@ -1,0 +1,21 @@
+{
+    "name": "Moja PWA",
+    "short_name": "PWApp",
+    "description": "Progressive Web App koju sad tu malo pravimo na Algebra predavanju.",
+    "icons": [
+        {
+            "src": "MEDIA/ICONS/icon-32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "MEDIA/ICONS/icon-512.png",
+            "sizes": "225x225",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "theme_color": "#B12A34",
+    "background_color": "#B12A34"
+}
